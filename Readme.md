@@ -2,6 +2,7 @@
 - https://developer.accuweather.com
 ### Details
 <img src="001.png" />
+<img src="002.png" />
 
 
 ## API
